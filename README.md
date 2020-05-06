@@ -19,5 +19,5 @@ A Command-line Dropbox client
 * python dbox.py delete myphot.jpg
 
 ##### Other info
-* you needs to generate Dropbox authentication token in order to use***
+* you needs to generate Dropbox authentication token in order to use
 * the tutorials of  dropbox access token generation is [here](http://99rabbits.com/get-dropbox-access-token/).
